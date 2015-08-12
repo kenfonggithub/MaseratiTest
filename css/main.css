@@ -1,0 +1,19 @@
+body {
+
+	color: #000;
+	background: url("http://7-themes.com/data_images/out/41/6911451-maserati-supercar.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Yantramanav', serif;
+	text-align: center;
+	height: 100%;
+}
+
+
+nav {
+	clear: both;	
+	font-family: Arial, sans-serif;
+	margin: auto;
+	width: 18em;
+	float:right;
+}
